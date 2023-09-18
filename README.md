@@ -1,6 +1,6 @@
 # handbook
 
-Check out the [Rosen Group Handbook](https://ptable.com/)! This repo is meant for the public to report any issues they may wish to report.
+Check out the [Rosen Group Handbook](https://rosengroup.slite.page/p/a5o5edzOXesjc8/Rosen-Group-Handbook)! This repo is meant for the public to report any issues they may wish to report.
 
 ## Acknowledgments
 
